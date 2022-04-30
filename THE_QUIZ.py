@@ -1,3 +1,6 @@
+#Greap app! Excellent work!
+
+
 from PyQt5.QtCore import Qt
 from random import shuffle
 from PyQt5.QtWidgets import (
